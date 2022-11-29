@@ -22,7 +22,10 @@ According to these relation ploted graph for understanding which is more affecte
 Done mechine learning using logistic regression to predict the value and checking the prediced value how much differ from the actual value.
 The aaccuracy is calculate for the model the model gives 90 percentage accuracy
  ### Tools used
- pandas,numpy,matplotlib,seaboran
+ pandas
+ numpy
+ matplotlib
+ seaboran
 
 ### conclusion
 Overexposure to certain environmental factors, such as pesticides and other chemicals, and radiation.
