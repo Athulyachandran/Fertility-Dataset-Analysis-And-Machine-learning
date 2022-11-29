@@ -6,15 +6,23 @@ Analysis goining on on the basis of data gven and finding the factors that badly
 ### Feature discription
 Season in which the analysis was performed.
 1) winter, 2) spring, 3) Summer, 4) fall.
-Age at the time of analysis. 18-36 (0, 1)
-Childish diseases (ie , chicken pox, measles, mumps, polio) 1) yes, 2) no
-Accident or serious trauma 1) yes, 2) no. (0, 1)
-Surgical intervention 1) yes, 2) no. (0, 1)
-High fevers in the last year 1) less than three months ago, 2) more than three months ago, 3) no.
-Frequency of alcohol consumption 1) several times a day, 2) every day, 3) several times a week, 4) once a week, 5) hardly ever or never
-Smoking habit 1) never, 2) occasional 3) daily
+Age at the time of analysis. 
+18-36 (0, 1)
+Childish diseases (ie , chicken pox, measles, mumps, polio)
+1) yes, 2) no
+Accident or serious trauma 
+1) yes, 2) no. (0, 1)
+Surgical intervention 
+1) yes, 2) no. (0, 1)
+High fevers in the last year 
+1) less than three months ago, 2) more than three months ago, 3) no.
+Frequency of alcohol consumption 
+1) several times a day, 2) every day, 3) several times a week, 4) once a week, 5) hardly ever or never
+Smoking habit 
+1) never, 2) occasional 3) daily
 Number of hours spent sitting per day ene-16
-Output: Diagnosis normal (N), altered (O)
+Output: Diagnosis 
+normal (N), altered (O)
 
 ### Data Analysis
 Conductiing analysis based some sample from people.and considering the some daily activity of selected people like season,chidishdeases,fever,smoking habit,sitting time each day.
