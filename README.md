@@ -28,7 +28,9 @@ Output: Diagnosis normal (N), altered (O)
 
 ### Data Analysis
 Conductiing analysis based some sample from people.and considering the some daily activity of selected people like season,chidishdeases,fever,smoking habit,sitting time each day.
+
 According to these relation ploted graph for understanding which is more affected for diagonosis and which is less affected.
+
 Done mechine learning using logistic regression to predict the value and checking the prediced value how much differ from the actual value.
 The aaccuracy is calculate for the model the model gives 90 percentage accuracy
  ### Tools used
@@ -39,6 +41,9 @@ The aaccuracy is calculate for the model the model gives 90 percentage accuracy
 
 ### conclusion
 Overexposure to certain environmental factors, such as pesticides and other chemicals, and radiation.
+
 Cigarette smoking, alcohol, marijuana, anabolic steroids, and taking medications to treat bacterial infections, high blood pressure and depression also can affect fertility.
+
 sitting time per day also aftect the reproduction,from the above analysis can understand those who are ivesting more hour in there diagonosis there will be some alteration
+
 daily alchoholic peple also affect with fertilization prblm
