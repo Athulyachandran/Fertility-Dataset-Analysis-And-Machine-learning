@@ -49,4 +49,4 @@ Cigarette smoking, alcohol, marijuana, anabolic steroids, and taking medications
 
 sitting time per day also aftect the reproduction,from the above analysis can understand those who are ivesting more hour in there diagonosis there will be some alteration
 
-daily alchoholic peple also affect with fertilization prblm
+Daily alchoholic peple also affect with fertilization prblm
