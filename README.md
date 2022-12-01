@@ -5,12 +5,12 @@ Analysis goining on on the basis of data gven and finding the factors that badly
 
 ### Feature discription
 Season in which the analysis was performed.
-1) winter, 2) spring, 3) Summer, 4) fall.
+1)winter, 2) spring, 3) Summer, 4) fall.
 
 Age at the time of analysis. 18-36 
 
 Childish diseases (ie , chicken pox, measles, mumps, polio)
-1) yes, 2) no
+1)yes, 2) no
 
 Accident or serious trauma 1) yes, 2) no. (0, 1)
 
