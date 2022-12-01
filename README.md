@@ -35,8 +35,11 @@ Done mechine learning using logistic regression to predict the value and checkin
 The aaccuracy is calculate for the model the model gives 90 percentage accuracy
  ### Tools used
  pandas
+ 
  numpy
+ 
  matplotlib
+ 
  seaboran
 
 ### conclusion
